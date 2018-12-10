@@ -1,3 +1,0 @@
-100 Bill
-45 Jim
-125 Todd
